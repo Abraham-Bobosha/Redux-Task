@@ -1,15 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
-
 import "../style/home.css"
 
 

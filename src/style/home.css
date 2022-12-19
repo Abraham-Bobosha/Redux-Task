@@ -6,13 +6,6 @@ body {
 
 }
 
-
-
-
-
-
-
-
 .home_base_div {
     width: 100%;
     height: 100vh;
@@ -24,9 +17,6 @@ body {
     gap: 1rem;
 
 }
-
-
-
 .group_div_base {
     width: 25rem;
     height: 90%;
@@ -41,10 +31,6 @@ body {
 
 }
 
-
-
-
-
 .group_div_top_bar {
     width: 100%;
     height: 15%;
@@ -56,7 +42,6 @@ body {
 
 }
 
-
 .group_div_heading {
     font-family: 'Roboto', sans-serif;
     color: white;
@@ -67,8 +52,6 @@ body {
 
 }
 
-
-
 .create_btn {
     background-color: rgb(239, 155, 0) !important;
     border-color: rgb(239, 155, 0) !important;
@@ -78,18 +61,7 @@ body {
     padding-left: 1rem;
     padding-right: 1rem;
 
-
-
 }
-
-
-
-
-
-
-
-
-
 
 .group_div_middle {
 
@@ -109,10 +81,6 @@ body {
 
 }
 
-
-
-
-
 .user_names {
     width: 8rem;
     height: 2rem;
@@ -122,9 +90,6 @@ body {
 
     border-radius: 0.4rem;
 }
-
-
-
 
 .group_div_last {
     height: 10%;
@@ -136,9 +101,6 @@ body {
 
 
 }
-
-
-
 
 .associate_btn {
     background-color: #474747 !important;
@@ -154,25 +116,6 @@ body {
     gap: 0.5rem;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .group_div2_middle {
     /* display: flex;
     align-items: center;
@@ -186,19 +129,10 @@ body {
     place-items: center;
 }
 
-
-
-
-
 .group2_box {
     width: 100%;
     height: 100%;
     /* background-color: aqua; */
-
-
-
-
-
 }
 
 .group2_box {
@@ -216,39 +150,14 @@ body {
 
 }
 
-
-
-
 .group2_groupnum {
     align-self: flex-start;
 
 }
 
-
-
-
-
-
-
-
 .see_all {
     font-size: small;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .group1_midle {
     display: grid;
@@ -259,17 +168,9 @@ body {
     grid-auto-flow: column;
 
 }
-
-
-
 .user_names {
     position: relative;
 }
-
-
-
-
-
 
 .cross_icon {
     position: absolute;
@@ -277,21 +178,6 @@ body {
     background-color: rgba(236, 236, 236, 0.5);
     border-radius: 50%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .users_list_moddal {
     height: 100%;
@@ -313,20 +199,13 @@ body {
     justify-content: center;
 }
 
-
-
-
-
 .user_names,
 .modal_names {
     overflow: hidden;
     display: inline-block;
     text-overflow: ellipsis;
 
-
-
 }
-
 
 .group2_groupnum {
     position: relative;
@@ -337,8 +216,6 @@ body {
     justify-content: flex-start;
     gap: 0.5rem;
 
-
-
 }
 
 .delete_group_icon {
@@ -348,14 +225,9 @@ background-color: transparent !important;
 
 }
 
-
 .group2_groupnum:hover .delete_group_icon {
     display: flex;
 }
-
-
-
-
 
 @media screen and (max-width: 950px) {
 
@@ -366,9 +238,6 @@ background-color: transparent !important;
 
 }
 
-
-
-
 @media screen and (max-width: 870px) {
 
 
@@ -377,8 +246,6 @@ background-color: transparent !important;
     }
 
 }
-
-
 
 @media screen and (max-width: 700px) {
 
@@ -400,15 +267,7 @@ background-color: transparent !important;
     body {
         padding-bottom: 1.5rem;
     }
-
-
-
-
 }
-
-
-
-
 
 @media screen and (max-width: 450px) {
 
@@ -442,8 +301,6 @@ background-color: transparent !important;
 
 }
 
-
-
 @media screen and (max-width: 500px) {
 
 
@@ -454,9 +311,6 @@ background-color: transparent !important;
 
 
 }
-
-
-
 
 @media screen and (max-width: 350px) {
 
