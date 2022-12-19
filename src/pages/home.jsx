@@ -66,8 +66,6 @@ console.log(state)
 
             <ToastContainer />
 
-
-
             <UserList />
 
             <GroupList />

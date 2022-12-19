@@ -1,25 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 import {  Button } from "reactstrap"
 
 
@@ -44,9 +24,6 @@ const App = ({ create_group, set_create_group }) => {
 
 
     const dispatch = useDispatch()
-
-
-
 
     return (
 

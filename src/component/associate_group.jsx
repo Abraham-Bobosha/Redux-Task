@@ -1,41 +1,18 @@
 
-
-
-
-
-
-
-
-
-
-
 import { useDispatch } from "react-redux"
 import "../style/home.css"
 
-
-
-
 import { Button } from "reactstrap"
-
 
 // ICON
 import { ImAttachment } from "react-icons/im"
 
-
 // REDUCER FUNCTION
 import { de_assign_group } from "../store/counterslice"
-
-
-
 
 const App = () => {
 
     const dispatch = useDispatch()
-
-
-
-
-
 
     return (
         <span className="group_div_last">
@@ -44,8 +21,5 @@ const App = () => {
 
     )
 }
-
-
-
 
 export default App

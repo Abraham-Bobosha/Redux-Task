@@ -38,25 +38,18 @@ import { delete_user } from "../store/counterslice"
 
 const App = () => {
 
-
     const dispatch = useDispatch()
     const [create_user, set_create_user] = useState({ open: false, name: "", group_id: null })
-
-
 
     const groups = useSelector(state => state.counter.groups)
     const users = useSelector(state => state.counter.users)
 
-
-
     return (
-
-
-
 
         <div className="group_div_base">
 
             {/* MODAL */}
+            // hello this is not working comment
             <CreateUser create_user={create_user} set_create_user={set_create_user} />
 
 
